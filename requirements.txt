@@ -1,7 +1,9 @@
 Flask
+gunicorn
 pyrebase4
 bcrypt
 python-dotenv
 dropbox
 google-generativeai
-gunicorn
+setuptools
+requests
