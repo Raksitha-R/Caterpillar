@@ -1,0 +1,6 @@
+Flask
+pyrebase4
+bcrypt
+python-dotenv
+dropbox
+google-generativeai
